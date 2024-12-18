@@ -1,1 +1,3 @@
 # EDA_Alzheimer_Disease
+
+En este proyecto se ha realizado un análisis exploratorio de los datos sobre el Alzheimer. Se ha utilizado un dataset de Kaggle que usa datos sintéticos de pacientes. Se han propuesto hipótesis sobre el problema a resolver, y, para ello, se han llevado a cabo tres análisis: univariante, para ver la distribución del dataset, bivariante, separando el grupo de pacientes diagnosticados y no diagnosticados, y viendo su relación con cada variable, y multivariante, para ver las correlaciones entre variables de forma general y visual. A partir de los resultados se obtienen conclusiones que pueden contestar a las preguntas iniciales.
